@@ -1,4 +1,3 @@
-<center>
 # TabMask
 ### TabMask, the program to mask your tabs. 
 
