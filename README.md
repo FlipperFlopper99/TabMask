@@ -5,9 +5,9 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 <h2 align="center">Features:</h2>
 <center>
-
 - hi
 - test
+</center>
 
 
 
