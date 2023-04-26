@@ -13,7 +13,7 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 To run TabMask, you don't have to download or code anything. You only have to drag a button to an empty area on your bookmarks bar.
 
-Since the button cannot be hosted on GitHub, you can find it on [this site]([https://github.com/username/repo](https://1728.saraw25307.repl.co)){:target="_blank"}
+Since the button cannot be hosted on GitHub, you can find it on [this site](https://1728.saraw25307.repl.co)){:target="_blank"}
 
 
 
