@@ -11,7 +11,7 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 <h2 align="center">Tutorial - How to run and tips</h2>
 
-To run TabMask, you don't have to download or code anything. You only have to drag a button to an empty area on your bookmarks bar.
+To run TabMask, you don't have to download or code anything. You only have to drag a button to an empty area on your bookmarks bar and click on it.
 
 Since the button cannot be hosted on GitHub, you can find it on [this site](https://1728.saraw25307.repl.co).
 
