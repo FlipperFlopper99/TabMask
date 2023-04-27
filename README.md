@@ -22,7 +22,7 @@ Since the button cannot be hosted on GitHub, you can find it on [this site](http
 
 [GitHub Pages Link](https://bananadev-frfr.github.io/TabMask)
 
-<h3 align="center">How to run TabMask</h3>
+<h2 align="center">How to run TabMask</h2> {#running}
 
 To run TabMask, click on the bookmark that was created, and then select one of the presets to disguise your tab as an educational/school website.
 
@@ -44,9 +44,9 @@ These are issues I'm aware of, __please do not report them to me unless you have
 
 <h2 align="center">Table-of-Contents</h2>
 
-[Tutorial](#tutorial) <br>
+[Tutorial - How to run and tips](#tutorial) <br>
+[How to run TabMask](#running)<br>
 [Issues I'm aware of](#issues)
-
 
 
 
