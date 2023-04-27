@@ -27,7 +27,7 @@ To run TabMask, click on the bookmark that was created, and then select one of t
 
 
 
-![screenshot](https://user-images.githubusercontent.com/131310543/234735397-d8ce74a7-2243-418e-9ec5-4a54b0bb0097.png)
+![Screenshot of TabMask's preset menu](https://user-images.githubusercontent.com/131310543/234988428-2fce7d33-91ac-40a1-b39a-c2d28adf00c5.png)
 
 Screenshot of TabMask's preset menu
 
