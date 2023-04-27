@@ -45,7 +45,7 @@ These are issues I'm aware of, __please do not report them to me unless you have
 <h2 align="center">Table-of-Contents</h2>
 
 [Tutorial](#Tutorial)
-[Issues I'm aware of](#Issues I'm aware of)
+[Issues I'm aware of](#Issues-I'm-aware-of)
 
 
 
