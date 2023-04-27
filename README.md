@@ -41,8 +41,6 @@ These are issues I'm aware of, __please do not report them to me unless you have
 
 - *Google Clasroom preset may not work on all sites
 - *McGraw-Hill preset may not work on all sites
-- 
-- 
 
 
 
