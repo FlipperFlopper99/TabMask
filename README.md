@@ -10,7 +10,7 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 - Tab icon changes per preset
 - Tab title changes per preset
 
-<h2 align="center">Tutorial</h2>
+<h2 align="center">Tutorial - How to run and tips</h2> {#tutorial}
 
 To run TabMask, you don't have to download or code anything. You only have to drag a button to an empty area on your bookmarks bar and click on it.
 
@@ -33,7 +33,7 @@ To run TabMask, click on the bookmark that was created, and then select one of t
 Screenshot of TabMask's preset menu
 
 
-<h2 align="center">Issues I'm aware of</h2>
+<h2 align="center">Issues I'm aware of</h2> {#issues}
 
 These are issues I'm aware of, __please do not report them to me unless you have a fix__. Issues with a * next to it I know how to fix, but I don't know how to impliment it correctly.
 
@@ -44,8 +44,8 @@ These are issues I'm aware of, __please do not report them to me unless you have
 
 <h2 align="center">Table-of-Contents</h2>
 
-[Tutorial](#Tutorial)
-[Issues I'm aware of](#Issues-I'm-aware-of)
+[Tutorial](#tutorial) <br>
+[Issues I'm aware of](#issues)
 
 
 
