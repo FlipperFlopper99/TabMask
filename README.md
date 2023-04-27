@@ -19,8 +19,12 @@ Since the button cannot be hosted on GitHub, you can find it on [this site](http
 
 [1](https://1728.saraw25307.repl.co), [2](https://1728.saraw25307.repl.co), 
 
+<h3 align="center">How to run TabMask</h3>
 
 To run TabMask, click on the bookmark that was created, and then select one of the presets to disguise your tab as an educational/school website.
+
+Screenshot of TabMask's menu
+![screenshot](https://user-images.githubusercontent.com/131310543/234735397-d8ce74a7-2243-418e-9ec5-4a54b0bb0097.png)
 
 
 
