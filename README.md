@@ -13,11 +13,12 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 To run TabMask, you don't have to download or code anything. You only have to drag a button to an empty area on your bookmarks bar and click on it.
 
+
 Since the button cannot be hosted on GitHub, you can find it on [this site](https://1728.saraw25307.repl.co).
 
-*__If that site is blocked, you can try going to one of these:__*
+*__If that site is blocked, you can try going to this one:__*
 
-[1](https://1728.saraw25307.repl.co), [2](https://1728.saraw25307.repl.co), 
+[GitHub Pages Link](https://bananadev-frfr.github.io/TabMask)
 
 <h3 align="center">How to run TabMask</h3>
 
