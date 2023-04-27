@@ -34,7 +34,7 @@ Screenshot of TabMask's preset menu
 
 <h2 align="center">Issues I'm aware of</h2>
 
-These are issues I'm aware of, __please do not report them to me unless you have a fix__. Issues with a * next to it I know how to fix, but I don't know how to impliment it correctly.
+These are issues I'm aware of, __please do not report them to me unless you have a fix__. Issues with a * next to them I know how to fix, but I don't know how to implement it correctly.
 
 - *Google Clasroom preset may not work on all sites
 - *McGraw-Hill preset may not work on all sites
