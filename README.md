@@ -15,9 +15,10 @@ To run TabMask, you don't have to download or code anything. You only have to dr
 
 Since the button cannot be hosted on GitHub, you can find it on [this site](https://1728.saraw25307.repl.co).
 
-__If that site is blocked__, you can try going to one of these:
+*__If that site is blocked, you can try going to one of these:__*
 
 [1](https://1728.saraw25307.repl.co), [2](https://1728.saraw25307.repl.co), 
+
 
 To run TabMask, click on the bookmark that was created, and then select one of the presets to disguise your tab as an educational/school website.
 
