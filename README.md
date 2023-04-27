@@ -10,7 +10,7 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 - Tab icon changes per preset
 - Tab title changes per preset
 
-<h2 align="center">Tutorial - How to run and tips</h2>
+<h2 align="center">Tutorial</h2>
 
 To run TabMask, you don't have to download or code anything. You only have to drag a button to an empty area on your bookmarks bar and click on it.
 
@@ -39,6 +39,13 @@ These are issues I'm aware of, __please do not report them to me unless you have
 
 - *Google Clasroom preset may not work on all sites
 - *McGraw-Hill preset may not work on all sites
+
+
+
+<h2 align="center">Table-of-Contents</h2>
+
+[Tutorial](#Tutorial)
+
 
 
 
