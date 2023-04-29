@@ -5,7 +5,7 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 [![Discord Server](https://img.shields.io/discord/1098810832130932786.svg?label=Discord%20Server&logo=Discord&color=7289da&logoColor=ffffff)](https://discord.gg/SHVtCYDGw9) 
 
-[Tutorial](https://i.imgur.com/G0XdBem.mp4)](
+[Tutorial](https://i.imgur.com/G0XdBem.mp4)
 
 
 
