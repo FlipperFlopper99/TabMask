@@ -3,6 +3,9 @@
 ### TabMask - The program to disguise your tabs with no download or signup required
 Has your teacher looking over your shoulder, having no idea why your "Learning" tab has the title of "Free Games Online" and the icon of a game controller? You're in luck.
 
+![image](https://user-images.githubusercontent.com/131310543/235278432-159a245e-2ced-430f-a81f-51af69a86b02.png)
+
+
 <h2 align="center">Features</h2>
 
 - Presets
