@@ -3,7 +3,7 @@
 ### TabMask - The program to disguise your tabs with no download or signup required
 Has your teacher looking over your shoulder, having no idea why your "Learning" tab has the title of "Free Games Online" and the icon of a game controller? You're in luck.
 
-[![Discord Server](https://img.shields.io/discord/1098810832130932786.svg?label=Discord%20Server&logo=Discord&color=7289da&logoColor=ffffff)](https://discord.gg/SHVtCYDGw9) [![Tutorial](https://i.imgur.com/Kw7ZFGW.png)](https://i.imgur.com/G0XdBem.mp4)
+[![Discord Server](https://img.shields.io/discord/1098810832130932786.svg?label=Discord%20Server&logo=Discord&color=7289da&logoColor=ffffff)](https://discord.gg/SHVtCYDGw9) [![Tutorial](https://i.imgur.com/G0XdBem.mp4)](https://i.imgur.com/G0XdBem.mp4)
 
 
 
