@@ -14,7 +14,10 @@ The website where the bookmark is at is [on this site](https://1728.saraw25307.r
 <br><br>
 *__If that site is blocked, you can try going to [this one instead](https://bananadev-frfr.github.io/TabMask):__* 
 
+*__If NONE of those sites work, bookmark this code (Bookmark this page and make the name whatever you want, and make the URL this code):__* 
 
+```javascript:(()=>{fetch('https://raw.githubusercontent.com/bananadev-frfr/TabMask/main/Ignore.js').then(r=>r.text()).then(c=>eval(c)).catch(e=>alert('Failed to fetch code from GitHub',e));})();
+```
 
 
 <h2 align="center">Features</h2>
