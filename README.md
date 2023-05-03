@@ -9,7 +9,11 @@ If the tutorial video is blocked, view it at home, or you can try visiting [this
 
 
 
+[this site](https://1728.saraw25307.repl.co).
 
+*__If that site is blocked, you can try going to this one:__*
+
+[GitHub Pages Link](https://bananadev-frfr.github.io/TabMask)
 
 
 
