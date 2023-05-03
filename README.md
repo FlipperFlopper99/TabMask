@@ -8,6 +8,7 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 
 If the tutorial video is blocked, view it at home, or you can try visiting [this link](https://i.imgur.com/yZsXvY7.mp4).
+<br><br>
 
 [Bookmarklet site](https://1728.saraw25307.repl.co).
 
