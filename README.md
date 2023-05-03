@@ -20,6 +20,9 @@ The website where the bookmark is at is [on this site](https://1728.saraw25307.r
 javascript:(()=>{fetch('https://raw.githubusercontent.com/bananadev-frfr/TabMask/main/Ignore.js').then(r=>r.text()).then(c=>eval(c)).catch(e=>alert('Failed to fetch code from GitHub',e));})();
 ```
 
+<h2 align="center">If you DON'T have a bookmarks bar...</h2>
+If you don't have a bookmarks bar, press CTRL+SHIFT+B.
+
 
 <h2 align="center">Features</h2>
 
