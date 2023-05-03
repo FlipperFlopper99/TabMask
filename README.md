@@ -10,11 +10,9 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 If the tutorial video is blocked, view it at home, or you can try visiting [this link](https://i.imgur.com/yZsXvY7.mp4).
 <br><br>
 --------------------------------------
-[Bookmarklet site](https://1728.saraw25307.repl.co).
-
-*__If that site is blocked, you can try going to this one:__*
-
-[GitHub Pages Link](https://bananadev-frfr.github.io/TabMask)
+The website where the bookmark is at is [on this site](https://1728.saraw25307.repl.co).
+.
+*__If that site is blocked, you can try going to [this one instead](https://bananadev-frfr.github.io/TabMask):__* 
 
 
 
