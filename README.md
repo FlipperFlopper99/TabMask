@@ -7,9 +7,9 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 <br>
 <br>
 
-<p> If the tutorial video is blocked, view it at home, or you can try visiting [this link](https://i.imgur.com/yZsXvY7.mp4) <p>
+<p> If the tutorial video is blocked, view it at home, or you can try visiting [this link](https://i.imgur.com/yZsXvY7.mp4)<p>
+  
 <br><br>
---------------------------------------
 The website where the bookmark is at is [on this site](https://1728.saraw25307.repl.co).
 <br><br>
 *__If that site is blocked, you can try going to [this one instead](https://bananadev-frfr.github.io/TabMask):__* 
