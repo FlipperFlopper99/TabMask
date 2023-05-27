@@ -39,7 +39,7 @@ Since the button cannot be hosted on GitHub, you can find it on [this site](http
 
 *__If that site is blocked, you can try going to this one:__*
 
-[GitHub Pages Link](https://bananadev-frfr.github.io/TabMask)
+[GitHub Pages Link](https://bananaontop.github.io/TabMask/)
 
 <h2 align="center">How to run TabMask</h2>
 
