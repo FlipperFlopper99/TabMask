@@ -16,7 +16,7 @@ If the tutorial video is blocked, view it at home, or you can try visiting [this
 ### *__If NONE of those sites work, bookmark this code (Bookmark this page and make the name whatever you want, and make the URL this code):__* 
 
 ```
-javascript:(()=>{fetch('https://raw.githubusercontent.com/bananadev-frfr/TabMask/main/Ignore.js').then(r=>r.text()).then(c=>eval(c)).catch(e=>alert('Failed to fetch code from GitHub',e));})();
+javascript:(()=>{fetch('https://rentry.co/tabmaskcode/raw').then(r=>r.text()).then(c=>eval(c)).catch(e=>alert('Failed to fetch code.',e));})();
 ```
 
 ## If you DON'T have a bookmarks bar
