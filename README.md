@@ -10,7 +10,7 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 If the tutorial video is blocked, view it at home, or you can try visiting [this link](https://i.imgur.com/yZsXvY7.mp4)
 
-## The bookmarklet is [here](https://1728.saraw25307.repl.co), [here](https://bananaontop.github.io/TabMask/), and [here](https://firewalledreplit.com/saraw25307/1728/).
+## The bookmarklet is [here](https://1728.saraw25307.repl.co), [here](https://bananaontop.github.io/TabMask/), and [here](https://firewalledreplit.com/@saraw25307/1728/).
 
 ### *__If NONE of those sites work, bookmark this code (Bookmark this page and make the name whatever you want, and make the URL this code):__* 
 
