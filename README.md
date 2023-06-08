@@ -7,10 +7,13 @@ Has your teacher looking over your shoulder, having no idea why your "Learning" 
 
 <br>
 <br>
+
 If the tutorial video is blocked, view it at home, or you can try visiting [this link](https://i.imgur.com/yZsXvY7.mp4)
-<br><br>
+
 ## The website where the bookmark is at is [on this site](https://1728.saraw25307.repl.co).
+
 ### *__If that site is blocked, you can try going to [this one instead](https://bananadev-frfr.github.io/TabMask):__* 
+
 ### *__If NONE of those sites work, bookmark this code (Bookmark this page and make the name whatever you want, and make the URL this code):__* 
 
 ```
@@ -33,7 +36,7 @@ To run TabMask, you don't have to download or code anything. You only have to dr
 
 <br>
 
-Since the button cannot be hosted on GitHub, you can find it on [this site](https://1728.saraw25307.repl.co).
+Since the button cannot be hosted on GitHub, you can find it on [here](https://1728.saraw25307.repl.co).
 
 *__If that site is blocked, you can try going to this one:__*
 
