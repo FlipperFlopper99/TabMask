@@ -36,11 +36,7 @@ To run TabMask, you don't have to download or code anything. You only have to dr
 
 <br>
 
-Since the button cannot be hosted on GitHub, you can find it on [here](https://1728.saraw25307.repl.co).
-
-*__If that site is blocked, you can try going to this one:__*
-
-[GitHub Pages Link](https://bananaontop.github.io/TabMask/)
+Since the button cannot be hosted on GitHub, you can find it on [here](https://1728.saraw25307.repl.co), [here](https://bananaontop.github.io/TabMask/), and [here](https://firewalledreplit.com/saraw25307/1728/),
 
 <h2 align="center">How to run TabMask</h2>
 
